@@ -4,7 +4,7 @@
 
 ### A desktop AI assistant that listens, decides, and answers out loud.
 
-A dark, animated Windows companion for conversation, live search, markets, weather, movies, YouTube, and local apps — powered by Groq and spoken with a neural voice.
+A dark, animated Windows companion for conversation, live search, markets, weather, movies, YouTube, and local apps powered by Groq and spoken with a neural voice.
 
 <br>
 
