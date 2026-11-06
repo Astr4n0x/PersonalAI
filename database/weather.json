@@ -1,0 +1,35 @@
+{
+    "location": "Khulna",
+    "country": "Bangladesh",
+    "current": {
+        "time": "2026-10-10T14:00",
+        "temperature": 30.4,
+        "humidity": 65,
+        "feels_like": 35.5,
+        "precipitation": 0.0,
+        "condition": "Clear sky",
+        "wind_speed": 2.9
+    },
+    "forecast": {
+        "dates": [
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-12"
+        ],
+        "max_temperature": [
+            30.6,
+            31.2,
+            32.3
+        ],
+        "min_temperature": [
+            23.7,
+            22.8,
+            23.3
+        ],
+        "rain_probability": [
+            36,
+            19,
+            2
+        ]
+    }
+}
