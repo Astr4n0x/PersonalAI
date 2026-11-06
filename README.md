@@ -116,7 +116,7 @@ Bye Jarvis
 **Install**
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/Astr4n0x/PersonalAI
 cd AI
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
@@ -128,8 +128,8 @@ pip install -r requirements.txt
 Create a `.env` file in the project root:
 
 ```env
-Username=Iftakher
-AssistantName=Jarvis
+Username=your_name
+AssistantName=your_assistant_name
 GroqAPIkey=your_groq_api_key
 AI_model=llama-3.3-70b-versatile
 AI_voice=en-US-AndrewNeural
